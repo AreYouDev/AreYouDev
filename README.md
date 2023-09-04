@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areyoudev&label=Profile%20views&color=0e75b6&style=flat" alt="areyoudev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areyoudev" alt="areyoudev" /></a> </p>
-
 - 🔭 I’m currently working on [Twitter API V2](https://github.com/AreYouDev/simple-twitter-api-with-python)
 
 - 🌱 I’m currently learning **Python & Laravel**
