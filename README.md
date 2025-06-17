@@ -16,25 +16,28 @@
 ---
 
 ### 💬 Hakkımda
+- ⚡ React + Vite ile hızlı ve dinamik arayüzler yazıyorum.  
 - ⚙️ Laravel & SEO uyumlu sistemler geliştiriyorum.  
 - 🔍 Google algoritmalarına karşı savaşan projelerim var.  
-- ⚡ React & Vite ile frontend tarafında hızlı ve ölçeklenebilir arayüzler kuruyorum.  
-- 🧠 Problem çözücü değil, sistem kurucuyum.  
+- 💨 TailwindCSS ile UI’ı dert olmaktan çıkartıyorum.  
 
 ---
 
 ### ⚙️ Kullandığım Teknolojiler
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="Laravel" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="50" alt="Python" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="React" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="50" alt="Vite" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="Laravel" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/sqlite/4479A1" height="50" alt="Sqlite" />
+  <img src="https://cdn.simpleicons.org/mongodb/4479A1" height="50" alt="MongoDb" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="50" alt="Python" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="TailwindCSS" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="Bootstrap" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="50" alt="CSS3" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="NodeJS" />
 </div>
 
@@ -53,11 +56,5 @@
 <p align="center">
   <img src="https://i.hizliresim.com/2hzts81.gif" height="200" />
 </p>
-
----
-
-### 🤝 Bağlantıda Kal
-> Koddan fazlası: strateji, ürün geliştirme, growth planlama.  
-> Her yeni bağlantı yeni bir potansiyeldir. Let's talk!
 
 ---
