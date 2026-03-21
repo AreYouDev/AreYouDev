@@ -1,60 +1,106 @@
-<h1 align="center">👋 Selamlar, ben Alp Eren GÜNEY</h1>
-<h3 align="center">🚀 SEO Uzmanı | 🧠 Yazılım Geliştirici | 🔐 Sistem Mimarı</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://alperenguney.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit-0c7abf?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/alp-eren-guney" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-AlpErenGüney-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/alpsolist" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@alpsolist-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Alp%20Eren%20GÜNEY&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SEO%20Uzmanı%20·%20Yazılım%20Geliştirici%20·%20Sistem%20Mimarı&descAlignY=60&descSize=18&animation=fadeIn)
 
----
-
-### 💬 Hakkımda
-- ⚡ React + Vite ile hızlı ve dinamik arayüzler yazıyorum.  
-- ⚙️ Laravel & SEO uyumlu sistemler geliştiriyorum.  
-- 🔍 Google algoritmalarına karşı savaşan projelerim var.  
-- 💨 TailwindCSS ile UI’ı dert olmaktan çıkartıyorum.  
-
----
-
-### ⚙️ Kullandığım Teknolojiler
+</div>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="React" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="50" alt="Vite" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="Laravel" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/sqlite/4479A1" height="50" alt="Sqlite" />
-  <img src="https://cdn.simpleicons.org/mongodb/4479A1" height="50" alt="MongoDb" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="50" alt="Python" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="TailwindCSS" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="Bootstrap" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="50" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="NodeJS" />
+
+[![Website](https://img.shields.io/badge/🌐%20Website-alperenguney.com-0c7abf?style=for-the-badge&logoColor=white)](https://alperenguney.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alp%20Eren%20Güney-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alp-eren-guney)
+[![Instagram](https://img.shields.io/badge/Instagram-@alpsolist-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alpsolist)
+[![Profile Views](https://komarev.com/ghpvc/?username=AreYouDev&style=for-the-badge&color=302b63&label=Profile+Views)](https://github.com/AreYouDev)
+
 </div>
 
 ---
 
-### 📊 GitHub İstatistikleri
+## 🧠 Hakkımda
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AreYouDev&show_icons=true&theme=dracula&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AreYouDev&layout=compact&theme=dracula&langs_count=8&hide_border=false" height="160" />
-</p>
+```ts
+const alp = {
+  role:     ["SEO Uzmanı", "Full-Stack Developer", "Sistem Mimarı"],
+  stack:    ["React", "Vite", "Laravel", "Node.js", "Python", "TailwindCSS"],
+  focus:    ["Teknik SEO", "Web Performansı", "Ölçeklenebilir Sistemler"],
+  hobbies:  ["Google algoritmalarına kafa tutmak 🥊", "League of Legends 🎮", "Film izlemek 🎬"],
+  contact:  "alperenguney.com",
+};
+```
+
+- 🔍 **SEO & Teknik Altyapı** — Schema Markup, Core Web Vitals, Teknik Audit uzmanıyım
+- ⚡ **Frontend** — React + Vite ile performanslı ve dinamik arayüzler geliştiriyorum
+- 🔧 **Backend** — Laravel & Node.js ile SEO uyumlu, sağlam sistemler kuruyorum
+- 🧪 **UI/UX** — TailwindCSS ile tasarımı karmaşıklıktan kurtarıyorum
+- 📈 **Growth** — Büyümeye odaklı ürünler ve ajans projeleri yürütüyorum
 
 ---
 
-### ⚡ Güncel GIF Mood
-<p align="center">
-  <img src="https://i.hizliresim.com/2hzts81.gif" height="200" />
-</p>
+## 🛠️ Teknoloji Yığını
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Veritabanı**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Araçlar & Ortam**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AreYouDev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&border_radius=12" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AreYouDev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&border_radius=12&langs_count=8" height="170" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AreYouDev&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&border_radius=12)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AreYouDev&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Katkı Grafiği
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AreYouDev&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+
+</div>
