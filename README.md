@@ -5,6 +5,7 @@
 - 🔧 **Backend** — Laravel & Node.js ile SEO uyumlu, sağlam sistemler kuruyorum
 - 🧪 **UI/UX** — TailwindCSS ile tasarımı karmaşıklıktan kurtarıyorum
 - 📈 **Growth** — Büyümeye odaklı ürünler ve ajans projeleri yürütüyorum
+```
 ---
 
 ## 🛠️ Teknoloji Yığını
