@@ -52,32 +52,3 @@
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AreYouDev&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&border_radius=12)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=AreYouDev&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Katkı Grafiği
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AreYouDev&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
-
-</div>
