@@ -43,12 +43,3 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AreYouDev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&border_radius=12" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AreYouDev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&border_radius=12&langs_count=8" height="170" />
-
-</div>
-
