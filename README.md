@@ -1,38 +1,10 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Alp%20Eren%20GÜNEY&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SEO%20Uzmanı%20·%20Yazılım%20Geliştirici%20·%20Sistem%20Mimarı&descAlignY=60&descSize=18&animation=fadeIn)
-
-</div>
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐%20Website-alperenguney.com-0c7abf?style=for-the-badge&logoColor=white)](https://alperenguney.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alp%20Eren%20Güney-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alp-eren-guney)
-[![Instagram](https://img.shields.io/badge/Instagram-@alpsolist-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alpsolist)
-[![Profile Views](https://komarev.com/ghpvc/?username=AreYouDev&style=for-the-badge&color=302b63&label=Profile+Views)](https://github.com/AreYouDev)
-
-</div>
-
----
-
-## 🧠 Hakkımda
-
-```ts
-const alp = {
-  role:     ["SEO Uzmanı", "Full-Stack Developer", "Sistem Mimarı"],
-  stack:    ["React", "Vite", "Laravel", "Node.js", "Python", "TailwindCSS"],
-  focus:    ["Teknik SEO", "Web Performansı", "Ölçeklenebilir Sistemler"],
-  hobbies:  ["Google algoritmalarına kafa tutmak 🥊", "League of Legends 🎮", "Film izlemek 🎬"],
-  contact:  "alperenguney.com",
-};
 ```
-
 - 🔍 **SEO & Teknik Altyapı** — Schema Markup, Core Web Vitals, Teknik Audit uzmanıyım
 - ⚡ **Frontend** — React + Vite ile performanslı ve dinamik arayüzler geliştiriyorum
 - 🔧 **Backend** — Laravel & Node.js ile SEO uyumlu, sağlam sistemler kuruyorum
 - 🧪 **UI/UX** — TailwindCSS ile tasarımı karmaşıklıktan kurtarıyorum
 - 📈 **Growth** — Büyümeye odaklı ürünler ve ajans projeleri yürütüyorum
-
 ---
 
 ## 🛠️ Teknoloji Yığını
